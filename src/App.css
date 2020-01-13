@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+.page-header {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  color: darkslategray;
+}
+
+.loader {
+  
+}
+
+.post-container {
+  border: black dotted;
+  border-width: 1px;
+  border-radius: 5px;
+  /* height: 100px; */
+  padding: 20px;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2%;
+}
+
+.post-image {
+  height: 400px;
+  width: 700px;
+}
+
+.fetch-button {
+  margin-top: 30px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
